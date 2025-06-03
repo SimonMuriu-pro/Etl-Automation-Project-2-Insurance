@@ -1,0 +1,401 @@
+FeedbackID,CustomerID,SatisfactionScore,Comments
+1,48,5,Good service
+2,183,5,Unsatisfactory resolution
+3,112,5,Helpful staff
+4,101,5,Unsatisfactory resolution
+5,240,1,Helpful staff
+6,297,3,Good service
+7,340,3,Average experience
+8,226,5,Unsatisfactory resolution
+9,414,1,Poor response time
+10,95,3,Unsatisfactory resolution
+11,216,1,Poor response time
+12,60,4,Helpful staff
+13,137,2,Poor response time
+14,495,4,Good service
+15,272,2,Poor response time
+16,92,3,Unsatisfactory resolution
+17,459,2,Poor response time
+18,21,5,Poor response time
+19,143,1,Good service
+20,71,4,Poor response time
+21,114,1,Average experience
+22,464,3,Poor response time
+23,313,1,Poor response time
+24,55,3,Helpful staff
+25,498,3,Poor response time
+26,197,5,Helpful staff
+27,190,2,Good service
+28,45,4,Good service
+29,340,1,Helpful staff
+30,110,2,Average experience
+31,290,1,Average experience
+32,279,2,Average experience
+33,206,2,Unsatisfactory resolution
+34,288,5,Good service
+35,1,2,Good service
+36,461,4,Good service
+37,482,3,Poor response time
+38,135,4,Unsatisfactory resolution
+39,398,1,Helpful staff
+40,316,4,Helpful staff
+41,355,3,Average experience
+42,213,5,Average experience
+43,452,2,Helpful staff
+44,200,2,Poor response time
+45,71,5,Poor response time
+46,437,1,Average experience
+47,406,4,Average experience
+48,186,1,Unsatisfactory resolution
+49,440,2,Helpful staff
+50,497,3,Helpful staff
+51,122,1,Helpful staff
+52,22,3,Unsatisfactory resolution
+53,356,5,Good service
+54,135,4,Helpful staff
+55,313,2,Poor response time
+56,34,1,Average experience
+57,336,2,Poor response time
+58,358,2,Poor response time
+59,285,3,Unsatisfactory resolution
+60,424,4,Unsatisfactory resolution
+61,461,4,Poor response time
+62,356,1,Average experience
+63,409,3,Helpful staff
+64,451,4,Unsatisfactory resolution
+65,407,1,Average experience
+66,114,5,Helpful staff
+67,146,1,Helpful staff
+68,213,5,Average experience
+69,203,2,Good service
+70,161,5,Unsatisfactory resolution
+71,264,1,Helpful staff
+72,444,4,Poor response time
+73,145,3,Average experience
+74,325,4,Unsatisfactory resolution
+75,356,1,Poor response time
+76,382,1,Average experience
+77,483,5,Average experience
+78,431,2,Good service
+79,229,2,Poor response time
+80,144,2,Good service
+81,391,5,Poor response time
+82,30,2,Unsatisfactory resolution
+83,293,5,Unsatisfactory resolution
+84,356,1,Poor response time
+85,53,4,Helpful staff
+86,87,4,Unsatisfactory resolution
+87,55,5,Average experience
+88,342,4,Poor response time
+89,455,2,Unsatisfactory resolution
+90,494,3,Unsatisfactory resolution
+91,365,1,Unsatisfactory resolution
+92,45,5,Good service
+93,148,5,Poor response time
+94,439,4,Poor response time
+95,466,1,Unsatisfactory resolution
+96,403,1,Average experience
+97,411,4,Average experience
+98,73,2,Good service
+99,384,4,Helpful staff
+100,70,1,Average experience
+101,279,4,Good service
+102,299,4,Average experience
+103,254,1,Unsatisfactory resolution
+104,498,4,Good service
+105,149,1,Average experience
+106,401,5,Average experience
+107,181,1,Unsatisfactory resolution
+108,97,2,Helpful staff
+109,476,4,Good service
+110,350,4,Average experience
+111,86,1,Good service
+112,304,2,Unsatisfactory resolution
+113,410,3,Poor response time
+114,159,3,Average experience
+115,272,5,Average experience
+116,439,4,Poor response time
+117,328,1,Unsatisfactory resolution
+118,119,4,Unsatisfactory resolution
+119,63,1,Good service
+120,51,1,Poor response time
+121,462,2,Unsatisfactory resolution
+122,451,3,Good service
+123,180,2,Unsatisfactory resolution
+124,406,5,Average experience
+125,72,5,Average experience
+126,4,2,Unsatisfactory resolution
+127,434,4,Average experience
+128,51,1,Unsatisfactory resolution
+129,186,2,Good service
+130,495,1,Unsatisfactory resolution
+131,496,4,Average experience
+132,395,4,Good service
+133,117,5,Helpful staff
+134,68,2,Good service
+135,304,4,Helpful staff
+136,296,5,Unsatisfactory resolution
+137,292,5,Average experience
+138,330,5,Good service
+139,486,5,Poor response time
+140,97,4,Poor response time
+141,207,3,Average experience
+142,248,3,Poor response time
+143,244,1,Helpful staff
+144,326,3,Average experience
+145,444,1,Poor response time
+146,221,4,Good service
+147,299,5,Average experience
+148,215,3,Helpful staff
+149,354,5,Unsatisfactory resolution
+150,313,3,Unsatisfactory resolution
+151,477,5,Poor response time
+152,250,4,Average experience
+153,437,2,Average experience
+154,373,1,Good service
+155,438,3,Unsatisfactory resolution
+156,416,1,Helpful staff
+157,297,1,Average experience
+158,500,1,Good service
+159,498,1,Helpful staff
+160,209,2,Unsatisfactory resolution
+161,81,2,Unsatisfactory resolution
+162,311,3,Unsatisfactory resolution
+163,156,3,Average experience
+164,247,3,Unsatisfactory resolution
+165,470,5,Unsatisfactory resolution
+166,391,4,Helpful staff
+167,94,4,Helpful staff
+168,345,1,Average experience
+169,425,2,Poor response time
+170,148,3,Helpful staff
+171,72,3,Unsatisfactory resolution
+172,359,4,Good service
+173,53,1,Unsatisfactory resolution
+174,141,2,Helpful staff
+175,197,5,Unsatisfactory resolution
+176,75,2,Helpful staff
+177,335,4,Unsatisfactory resolution
+178,213,4,Poor response time
+179,307,2,Good service
+180,94,2,Good service
+181,117,4,Average experience
+182,454,3,Good service
+183,284,3,Helpful staff
+184,18,4,Good service
+185,199,1,Helpful staff
+186,230,5,Poor response time
+187,38,2,Poor response time
+188,253,2,Average experience
+189,197,3,Average experience
+190,128,2,Good service
+191,362,5,Poor response time
+192,226,1,Average experience
+193,91,3,Helpful staff
+194,55,5,Good service
+195,225,1,Poor response time
+196,251,2,Helpful staff
+197,116,3,Good service
+198,393,1,Helpful staff
+199,322,1,Unsatisfactory resolution
+200,272,2,Good service
+201,92,2,Poor response time
+202,276,4,Good service
+203,435,1,Good service
+204,309,5,Good service
+205,201,4,Average experience
+206,359,5,Good service
+207,75,2,Good service
+208,364,4,Helpful staff
+209,479,5,Good service
+210,154,1,Poor response time
+211,244,5,Good service
+212,225,2,Poor response time
+213,60,4,Average experience
+214,31,3,Poor response time
+215,25,4,Poor response time
+216,485,1,Poor response time
+217,114,2,Unsatisfactory resolution
+218,80,2,Unsatisfactory resolution
+219,164,1,Helpful staff
+220,45,3,Poor response time
+221,471,3,Unsatisfactory resolution
+222,218,4,Poor response time
+223,424,1,Average experience
+224,25,4,Poor response time
+225,143,3,Helpful staff
+226,386,4,Unsatisfactory resolution
+227,176,3,Helpful staff
+228,494,4,Poor response time
+229,25,3,Helpful staff
+230,300,1,Average experience
+231,411,1,Helpful staff
+232,338,5,Helpful staff
+233,261,2,Helpful staff
+234,217,2,Helpful staff
+235,209,3,Poor response time
+236,177,5,Helpful staff
+237,339,3,Average experience
+238,233,3,Good service
+239,186,1,Unsatisfactory resolution
+240,259,3,Unsatisfactory resolution
+241,133,2,Unsatisfactory resolution
+242,35,2,Unsatisfactory resolution
+243,21,2,Helpful staff
+244,52,4,Unsatisfactory resolution
+245,8,3,Poor response time
+246,355,1,Good service
+247,135,2,Unsatisfactory resolution
+248,157,5,Poor response time
+249,21,1,Unsatisfactory resolution
+250,416,4,Poor response time
+251,166,5,Average experience
+252,374,4,Unsatisfactory resolution
+253,270,4,Average experience
+254,120,3,Unsatisfactory resolution
+255,34,1,Good service
+256,383,5,Good service
+257,469,5,Good service
+258,110,3,Good service
+259,375,1,Average experience
+260,446,1,Average experience
+261,363,3,Poor response time
+262,28,3,Good service
+263,200,5,Average experience
+264,479,1,Helpful staff
+265,304,2,Good service
+266,130,4,Helpful staff
+267,465,4,Average experience
+268,146,2,Poor response time
+269,134,5,Unsatisfactory resolution
+270,414,2,Poor response time
+271,114,2,Unsatisfactory resolution
+272,369,5,Good service
+273,397,5,Helpful staff
+274,150,4,Unsatisfactory resolution
+275,139,3,Good service
+276,233,3,Poor response time
+277,267,2,Good service
+278,315,3,Poor response time
+279,140,2,Average experience
+280,326,1,Unsatisfactory resolution
+281,360,3,Unsatisfactory resolution
+282,179,1,Unsatisfactory resolution
+283,60,1,Good service
+284,346,4,Good service
+285,459,5,Good service
+286,355,5,Good service
+287,222,2,Unsatisfactory resolution
+288,6,4,Helpful staff
+289,38,2,Good service
+290,106,3,Unsatisfactory resolution
+291,259,3,Good service
+292,317,3,Average experience
+293,313,1,Unsatisfactory resolution
+294,284,5,Unsatisfactory resolution
+295,410,4,Good service
+296,104,4,Unsatisfactory resolution
+297,293,2,Average experience
+298,383,4,Average experience
+299,359,5,Poor response time
+300,309,2,Helpful staff
+301,393,2,Helpful staff
+302,451,3,Poor response time
+303,309,1,Good service
+304,43,1,Average experience
+305,36,2,Helpful staff
+306,305,3,Poor response time
+307,163,3,Poor response time
+308,269,2,Average experience
+309,400,3,Poor response time
+310,184,1,Good service
+311,214,3,Unsatisfactory resolution
+312,378,4,Poor response time
+313,229,5,Unsatisfactory resolution
+314,46,1,Helpful staff
+315,384,5,Poor response time
+316,252,4,Average experience
+317,293,4,Unsatisfactory resolution
+318,309,5,Poor response time
+319,216,3,Helpful staff
+320,393,4,Average experience
+321,350,1,Unsatisfactory resolution
+322,333,1,Helpful staff
+323,266,4,Average experience
+324,182,2,Poor response time
+325,176,5,Unsatisfactory resolution
+326,488,5,Helpful staff
+327,256,1,Poor response time
+328,310,3,Unsatisfactory resolution
+329,156,3,Unsatisfactory resolution
+330,481,5,Poor response time
+331,147,2,Good service
+332,347,4,Unsatisfactory resolution
+333,39,4,Poor response time
+334,476,4,Unsatisfactory resolution
+335,198,3,Poor response time
+336,335,5,Unsatisfactory resolution
+337,285,3,Unsatisfactory resolution
+338,39,3,Average experience
+339,412,1,Unsatisfactory resolution
+340,197,2,Good service
+341,12,2,Average experience
+342,460,3,Good service
+343,190,3,Helpful staff
+344,71,5,Good service
+345,396,2,Good service
+346,11,4,Helpful staff
+347,443,5,Helpful staff
+348,124,3,Poor response time
+349,382,2,Helpful staff
+350,400,3,Poor response time
+351,209,5,Average experience
+352,310,3,Helpful staff
+353,323,3,Average experience
+354,380,2,Unsatisfactory resolution
+355,222,5,Helpful staff
+356,202,5,Unsatisfactory resolution
+357,156,5,Helpful staff
+358,169,1,Good service
+359,234,4,Helpful staff
+360,111,2,Good service
+361,366,4,Poor response time
+362,4,3,Helpful staff
+363,83,2,Average experience
+364,78,5,Unsatisfactory resolution
+365,477,4,Poor response time
+366,298,5,Unsatisfactory resolution
+367,98,2,Helpful staff
+368,357,1,Average experience
+369,114,5,Poor response time
+370,322,3,Unsatisfactory resolution
+371,416,5,Helpful staff
+372,7,5,Unsatisfactory resolution
+373,347,5,Unsatisfactory resolution
+374,313,4,Poor response time
+375,388,2,Helpful staff
+376,341,2,Helpful staff
+377,425,4,Helpful staff
+378,474,1,Good service
+379,241,2,Unsatisfactory resolution
+380,186,5,Poor response time
+381,473,3,Unsatisfactory resolution
+382,411,4,Helpful staff
+383,93,2,Good service
+384,294,2,Average experience
+385,14,3,Helpful staff
+386,229,5,Average experience
+387,376,1,Average experience
+388,43,5,Helpful staff
+389,219,5,Poor response time
+390,338,5,Good service
+391,278,5,Good service
+392,329,4,Unsatisfactory resolution
+393,217,1,Poor response time
+394,405,3,Poor response time
+395,267,4,Unsatisfactory resolution
+396,173,4,Poor response time
+397,448,5,Average experience
+398,259,5,Poor response time
+399,119,1,Average experience
+400,407,5,Good service
