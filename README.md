@@ -41,6 +41,9 @@ This project is a modular, production-ready ETL pipeline built in Python for cle
 
 - Git for version control
 
+<h2>🔐 Environment Variables </h2>
+This project uses a .env file to manage sensitive environment variables such as database credentials.
+
 <h2> 📁 Log outputs </h2>
 
 <img src="https://i.imgur.com/8b3Hh08.png" alt=" ETL_Automation Folder" width="600"/>
